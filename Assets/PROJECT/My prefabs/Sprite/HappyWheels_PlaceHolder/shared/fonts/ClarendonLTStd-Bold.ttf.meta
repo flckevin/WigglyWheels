@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cea3d0f0b264e814991c2b53e3f5b2a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Clarendon LT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0853f764398195d40a4ad9940b664d32, type: 3}
+  - {fileID: 12800000, guid: c50af499cd408d040aa405f1c64d81f7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ending header</key>
+	<string>You did it.</string>
+	<key>ending message</key>
+	<string>You beat all available levels.
+We&apos;re making more, but
+millions of user-made levels
+can be played at happywheels.com
+on any javascript-enabled computer.
+Thanks for playing!</string>
+	<key>credits</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>Original Game:</string>
+			<key>items</key>
+			<array>
+				<string>Jim Bonacci</string>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Mobile Version:</string>
+			<key>items</key>
+			<array>
+				<string>Jason Schymick
+and Jim Bonacci </string>
+				<string>Fancy Force, LLC.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Additional Level Design:</string>
+			<key>items</key>
+			<array>
+				<string>Kreftus
+Some bored guy
+the hooch
+and bobisdacool1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Intro Song:</string>
+			<key>items</key>
+			<array>
+				<string>Jack Zankowski</string>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Special Thanks:</string>
+			<key>items</key>
+			<array>
+				<string>the tireless beta testers </string>
+				<string>Erin Catto and the
+Box2D community</string>
+				<string>Cocos2D</string>
+				<string>Stack Overflow</string>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Special No Thanks:</string>
+			<key>items</key>
+			<array>
+				<string>Time</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

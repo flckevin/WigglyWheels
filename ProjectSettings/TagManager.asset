@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vehicle
+  - Limb
+  - bike
+  - Objects
+  - Dismember
+  - Accident
+  - DeactivePlatform
+  - StickAble
+  - Finishline
+  - Impaleable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Player
+  - MapCollision
+  - ObjectCollision
+  - Vehicle
+  - 
+  - BikeOnly
+  - PlayerOnly
+  - IgnorePlayer
+  - PlayerBody
+  - PlayerLimb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,61 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-47029103-6", 
+            "anonymizeIp": true
+        }, 
+        "Review": {
+            "LaunchLimit": 3, 
+            "DayForReminding": 1, 
+            "tryPromptWhenInit": true, 
+            "DayLimit": 0, 
+            "LaunchForReminding": 2, 
+            "UserEventLimit": 0
+        }, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "com.fancyforce.happywheels.removeads"
+                }
+            }
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "track_init_screen": false, 
+            "trackingCode": "UA-47029103-6", 
+            "anonymizeIp": true
+        }, 
+        "Review": {
+            "LaunchLimit": 3, 
+            "DayForReminding": 1, 
+            "tryPromptWhenInit": true, 
+            "AppID": "587767923", 
+            "DayLimit": 0, 
+            "LaunchForReminding": 2, 
+            "UserEventLimit": 0
+        }, 
+        "Firebase": {}, 
+        "iap": {
+            "items": {
+                "remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "com.fancyforce.happywheels.removeads"
+                }
+            }
+        }
+    }, 
+    "amazon": {
+        "Review": {
+            "LaunchLimit": 3, 
+            "DayForReminding": 1, 
+            "UserEventLimit": 0, 
+            "tryPromptWhenInit": true, 
+            "DayLimit": 0, 
+            "LaunchForReminding": 2, 
+            "market": "amazon"
+        }
+    }
+}
+ 

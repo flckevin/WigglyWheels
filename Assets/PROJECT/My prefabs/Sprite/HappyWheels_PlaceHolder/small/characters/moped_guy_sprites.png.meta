@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 22047344acae24c4fbb3b4dcfb22ecc5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moped_guy_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 501
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c91575e30fdb4ba5a05ff077a9207
+      internalID: 631145760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 503
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6362968aa085384daba604afcfb9053
+      internalID: -894062281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 507
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546dca85585ecc449853094c9aac00d
+      internalID: -682397930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 507
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed39b6465461d64b95322a018b31d0c
+      internalID: -1767455496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 435
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361c034ebcc3ac498c628bbb39c40fd
+      internalID: -2131511379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 433
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88593e2c8d24c2945a888c1eac1346b1
+      internalID: -792654693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 443
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653f6e1f550fac840b7503618d176ede
+      internalID: -548369429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 454
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991680840462bb419e9a304df21f79a
+      internalID: 1638061305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 477
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1c995bb054b94aa71ec8e1e3c7d2f
+      internalID: 1927622530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe05ee4997356949b3ca738c5895591
+      internalID: 1107594039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 365
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8230a57e700145428cc07978dfb8fae
+      internalID: 870843566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 375
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a89f1b62693df4ea2f393112e419c7
+      internalID: -721337189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 391
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6ec227cc95304db0df7ba0c10f3f9
+      internalID: -1127825632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 405
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f474fadda292a47983c14639001b1e
+      internalID: -2043503236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 400
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277bc9e70aec28a428baf51212dcbc7a
+      internalID: 708086849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 339
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b5c54ce09c8840945d928a5a14629
+      internalID: -310844798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 355
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb4dc32b80a6842942d4f0cc4926d2
+      internalID: -1777757179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 385
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1740a4a077674e95bcec0e16f97e5
+      internalID: -1728154824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59219e9f5281f1c40950f68578efc43c
+      internalID: 1910615587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 297
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75277e89f7e27345a72837ef98d2e71
+      internalID: -688369360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 325
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2361bea4da8a45bf539ff1758d352
+      internalID: 1647943407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 353
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d80a55fa2ed34a8462b573a7d37d4
+      internalID: -642672907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 313
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52fad9906d43124c9228686851f231b
+      internalID: 1830691195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95bf9e604bccb4aa15f8e7f673aa1e
+      internalID: 1979921410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a35e881386e474a95b05daa53a57d7
+      internalID: 212061764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ba1864edc4fe4089d652c5bc4f952
+      internalID: 508339581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 275
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e8025192d85748b372d9e38ee62e5
+      internalID: 1286859050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 289
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93da0b234121446b830312669ae9ce
+      internalID: -851520017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 267
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5386bcde2e3bc2245b16855a645c7eb2
+      internalID: 380512220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 232
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ff190018716e429c9b5f6697aea8b
+      internalID: -209977736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952aa227aaf54945a8ec69226e07722
+      internalID: 1526828568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 233
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe83d5d6556d96f47bf9a1869b87bd33
+      internalID: 511757580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 157
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e98c01145f6a4cb4d2820afa2f9c0
+      internalID: 1315940944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 187
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c117f5c6d3e9c242acc8383e66dd02c
+      internalID: 1909399997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 176
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3cea66e27bc548babaaf58a996ccb
+      internalID: 1679581787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 180
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ef799959999d547aac3eae862248e3
+      internalID: -375268828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 199
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c81c52762beeed46acde80a8c0c0ff8
+      internalID: -248835855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 199
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b3ccd955ad3642a41d55b6efa82b0
+      internalID: 1094265962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 135
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87b12bfc597564f9e635a8be73526b
+      internalID: -1755148072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb068918da10e9141965cb6ce2b235ef
+      internalID: 375147560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 136
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d908161e968f1a4496c98fa3884f642
+      internalID: 2021893396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775752fb1075f134baf56feaa5da8247
+      internalID: 1334059087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 162
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d05a00529a3b48b8075a7b7a4e096
+      internalID: -1299589366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7c4dec34f7d641884018ba2ac87b2
+      internalID: -1345542074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489307d6a2cac1b41a4f55c7b1efa51a
+      internalID: -2128270624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 94
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d0f404b071714581adf5cdb034457
+      internalID: -759227040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a2f35303637c4eabe6c51217fb6da
+      internalID: -1589762264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc72b86bf9b42941b000422942ccdcd
+      internalID: 69409289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be3c0376c52e549a272df0028f409e
+      internalID: -1817966404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7256e9e00517249bae29b320b97553
+      internalID: -1545465529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c087cd61b4494799fe495b1028bee
+      internalID: 983757233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e075b369ba7a8b49aac4e2bf4d3ae6f
+      internalID: 37655243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf0721585655314cbe9b63220eaa881
+      internalID: -896918209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad738b28ac1e447aaf2877bc27bcc6
+      internalID: 1323484596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 62
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e28842e7f89e3418b7904fc83c1a40
+      internalID: -1604104089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0ee542fb156e4b96775ab88e91f09
+      internalID: 1726408974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 42
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c5afca0a46b843a68fcfe82d3fb74
+      internalID: 1616026587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073e0da9f7fdec24cb3c969d0344f109
+      internalID: -103630077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 36
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b9c2fc58e74d445a150608555f9748
+      internalID: -986776244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 30
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370988c539012c242bfdef9d840a4467
+      internalID: -1562060090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ebec0de41dbb745a338163b7e83818
+      internalID: 1380964791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e77254fd67bbd4d91e5d8c4810203c
+      internalID: 265751868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 10
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee2f17c49d69394bb7846bd0efac613
+      internalID: 553641641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moped_guy_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121310a36715d6b4abeeca63a8c893ec
+      internalID: -385380501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      moped_guy_sprites_0: 631145760
+      moped_guy_sprites_1: -894062281
+      moped_guy_sprites_10: 870843566
+      moped_guy_sprites_11: -721337189
+      moped_guy_sprites_12: -1127825632
+      moped_guy_sprites_13: -2043503236
+      moped_guy_sprites_14: 708086849
+      moped_guy_sprites_15: -310844798
+      moped_guy_sprites_16: -1777757179
+      moped_guy_sprites_17: -1728154824
+      moped_guy_sprites_18: 1910615587
+      moped_guy_sprites_19: -688369360
+      moped_guy_sprites_2: -682397930
+      moped_guy_sprites_20: 1647943407
+      moped_guy_sprites_21: -642672907
+      moped_guy_sprites_22: 1830691195
+      moped_guy_sprites_23: 1979921410
+      moped_guy_sprites_24: 212061764
+      moped_guy_sprites_25: 508339581
+      moped_guy_sprites_26: 1286859050
+      moped_guy_sprites_27: -851520017
+      moped_guy_sprites_28: 380512220
+      moped_guy_sprites_29: -209977736
+      moped_guy_sprites_3: -1767455496
+      moped_guy_sprites_30: 1526828568
+      moped_guy_sprites_31: 511757580
+      moped_guy_sprites_32: 1315940944
+      moped_guy_sprites_33: 1909399997
+      moped_guy_sprites_34: 1679581787
+      moped_guy_sprites_35: -375268828
+      moped_guy_sprites_36: -248835855
+      moped_guy_sprites_37: 1094265962
+      moped_guy_sprites_38: -1755148072
+      moped_guy_sprites_39: 375147560
+      moped_guy_sprites_4: -2131511379
+      moped_guy_sprites_40: 2021893396
+      moped_guy_sprites_41: 1334059087
+      moped_guy_sprites_42: -1299589366
+      moped_guy_sprites_43: -1345542074
+      moped_guy_sprites_44: -2128270624
+      moped_guy_sprites_45: -759227040
+      moped_guy_sprites_46: -1589762264
+      moped_guy_sprites_47: 69409289
+      moped_guy_sprites_48: -1817966404
+      moped_guy_sprites_49: -1545465529
+      moped_guy_sprites_5: -792654693
+      moped_guy_sprites_50: 983757233
+      moped_guy_sprites_51: 37655243
+      moped_guy_sprites_52: -896918209
+      moped_guy_sprites_53: 1323484596
+      moped_guy_sprites_54: -1604104089
+      moped_guy_sprites_55: 1726408974
+      moped_guy_sprites_56: 1616026587
+      moped_guy_sprites_57: -103630077
+      moped_guy_sprites_58: -986776244
+      moped_guy_sprites_59: -1562060090
+      moped_guy_sprites_6: -548369429
+      moped_guy_sprites_60: 1380964791
+      moped_guy_sprites_61: 265751868
+      moped_guy_sprites_62: 553641641
+      moped_guy_sprites_63: -385380501
+      moped_guy_sprites_7: 1638061305
+      moped_guy_sprites_8: 1927622530
+      moped_guy_sprites_9: 1107594039
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
